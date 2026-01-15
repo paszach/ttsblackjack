@@ -6,5 +6,5 @@ Pages you might be looking for:
 
 - [Full Ruleset](docs/rules.md)
 - [Joining Info](docs/START.md)
-- [Leaderboard Standings](https://leaderboardhq.com/66z8uwuv)
+- [Leaderboard Standings (Opens leaderboardhq in new tab)](https://leaderboardhq.com/66z8uwuv){:target="_blank"}
 
