@@ -8,5 +8,5 @@ Pages you might be looking for:
 - [Full Ruleset](docs/rules.md)
 - [Joining Info](docs/START.md)
 - [Leaderboard Standings](https://leaderboardhq.com/66z8uwuv)
-- [Signup Sheet](https://signup.com/go/JeYRaOS)
+
   
