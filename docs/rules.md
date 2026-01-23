@@ -4,8 +4,8 @@
 
 ## Blackjack Table Rules
 
-- Table minimum is 10 TDs
-- Table maximum is 100 TDs
+- Table minimum is 10 τ$ 
+- Table maximum is 100 τ$ 
 - 4-6 decks will be used
 
 ## Blackjack Player Choice Rules
@@ -15,6 +15,7 @@
 - Dealer stands on all 17s including soft 17
 - Doubling down after splitting is allowed
 - Doubling down is allowed on any 2 cards (must be equal to your original bet)
+- NO doubling down after hitting
 - Late surrender is offered on any initial 2 cards
 - Surrender wager can be up to half of your bet
 - Splitting is allowed up to 4 hands
